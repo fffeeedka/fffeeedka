@@ -6,7 +6,7 @@
 
 <a href="https://t.me/hatuj"><img src="https://img.shields.io/badge/Telegram-@hatuj-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://homso.ru"><img src="https://img.shields.io/badge/Website-homso.ru-6c8cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<img src="https://komarev.com/ghpvc/?username=ivandenisenka388-dev&style=for-the-badge&color=8b6cff" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=fffeeedka&style=for-the-badge&color=8b6cff" alt="Profile views">
 
 </div>
 
@@ -57,8 +57,8 @@ I've been building for the web **since 2021** — landing pages, multi-page site
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ivandenisenka388-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d12&icon_color=8b6cff&title_color=6c8cff&text_color=e9ecf4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivandenisenka388-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d12&title_color=6c8cff&text_color=e9ecf4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fffeeedka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0d12&icon_color=8b6cff&title_color=6c8cff&text_color=e9ecf4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fffeeedka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0d12&title_color=6c8cff&text_color=e9ecf4" />
 
 </div>
 
