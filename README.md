@@ -4,8 +4,7 @@
 
 ### Websites, bots and clean interfaces — built fast, priced fairly.
 
-<a href="https://t.me/hatuj"><img src="https://img.shields.io/badge/Telegram-@hatuj-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://homso.ru"><img src="https://img.shields.io/badge/Website-homso.ru-6c8cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://t.me/biohomsonk"><img src="https://img.shields.io/badge/Telegram-@biohomsonk-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <img src="https://komarev.com/ghpvc/?username=fffeeedka&style=for-the-badge&color=8b6cff" alt="Profile views">
 
 </div>
@@ -70,7 +69,7 @@ Have an idea for a site or a bot? Message me directly — I reply fast.
 
 <div align="center">
 
-<a href="https://t.me/hatuj"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="42"></a>
+<a href="https://t.me/biohomsonk"><img src="https://img.shields.io/badge/Message%20me%20on%20Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" height="42"></a>
 
 <br><br>
 
